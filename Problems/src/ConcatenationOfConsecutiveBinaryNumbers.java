@@ -1,3 +1,5 @@
+import java.math.BigInteger;
+
 public class ConcatenationOfConsecutiveBinaryNumbers {
 
     public static void main(String[] args) {
